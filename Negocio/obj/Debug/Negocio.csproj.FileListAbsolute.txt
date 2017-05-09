@@ -1,0 +1,14 @@
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Negocio\bin\Debug\Negocio.dll.config
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Negocio\bin\Debug\Negocio.dll
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Negocio\bin\Debug\Negocio.pdb
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Negocio\bin\Debug\Datos.dll
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Negocio\bin\Debug\Entidad.dll
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Negocio\bin\Debug\EntityFramework.dll
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Negocio\bin\Debug\Datos.pdb
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Negocio\bin\Debug\Entidad.pdb
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Negocio\bin\Debug\EntityFramework.xml
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Negocio\obj\Debug\Negocio.dll
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Negocio\obj\Debug\Negocio.pdb

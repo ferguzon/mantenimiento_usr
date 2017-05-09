@@ -1,0 +1,10 @@
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Entidad\bin\Debug\Entidad.dll.config
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Entidad\bin\Debug\Entidad.dll
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Entidad\bin\Debug\Entidad.pdb
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Entidad\bin\Debug\EntityFramework.dll
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Entidad\bin\Debug\EntityFramework.SqlServer.dll
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Entidad\bin\Debug\EntityFramework.xml
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Entidad\bin\Debug\EntityFramework.SqlServer.xml
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Entidad\obj\Debug\Entidad.dll
+d:\googledrive\mis documentos\visual studio 2015\Projects\Aplicacion mantenimiento usr\Entidad\obj\Debug\Entidad.pdb
